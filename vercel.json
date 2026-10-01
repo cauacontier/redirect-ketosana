@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://myketosana.com/ketosana-pdp-fe#aff=contiera",
+      "statusCode": 301
+    }
+  ]
+}
